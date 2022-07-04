@@ -5,7 +5,7 @@
 <p align="center">“Se algo é importante o suficiente, você deve tentar. Mesmo se o resultado provável for o fracasso.”!</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://danielcanudo.github.io/rocketcoffee/images/tela-final-rocketcoffee.png">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
 </p>
 
 ## Sobre o desafio
@@ -20,7 +20,7 @@ As informações contidas na aplicação são **estáticas** e não precisam ref
 
 ### Tela da aplicação do resultado final:
 
-<img alt="Tela final da aplicação" src="https://danielcanudo.github.io/tesla-home-page/imagens/tela-final-tesla-home-page.png">
+<img alt="Tela final da aplicação" src="https://danielcanudo.github.io/rocketcoffee/images/tela-final-rocketcoffee.png"">
 
 ### Componentes
 
