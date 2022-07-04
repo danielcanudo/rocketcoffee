@@ -5,7 +5,7 @@
 <p align="center">“Se algo é importante o suficiente, você deve tentar. Mesmo se o resultado provável for o fracasso.”!</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
+  <img alt="GitHub language count" src="https://danielcanudo.github.io/rocketcoffee/images/tela-final-rocketcoffee.png">
 </p>
 
 ## Sobre o desafio
