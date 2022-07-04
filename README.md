@@ -20,7 +20,7 @@ As informações contidas na aplicação são **estáticas** e não precisam ref
 
 ### Tela da aplicação do resultado final:
 
-<img alt="Tela final da aplicação" src="https://danielcanudo.github.io/rocketcoffee/images/tela-final-rocketcoffee.png"">
+<img alt="Tela final da aplicação" src="https://danielcanudo.github.io/rocketcoffee/images/tela-final-rocketcoffee.png">
 
 ### Componentes
 
